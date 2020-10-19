@@ -1,5 +1,5 @@
 # DSI_Notes
-*[Markdown](#markdown)
+* [Markdown](#markdown)
 
 ## Relevant Links
 * [Visualizing 'scipy.stats' distributions](https://stackoverflow.com/questions/37559470/what-do-all-the-distributions-available-in-scipy-stats-look-like)
@@ -44,7 +44,7 @@ function gitadder() {
 ## Python
 
 ### Important Links
-*[Python Cheat Sheet](https://github.com/GalvanizeDataScience/course-outline/blob/20-10-DS_SEA_SEA20/quick-reference/Python.pdf)
+* [Python Cheat Sheet](https://github.com/GalvanizeDataScience/course-outline/blob/20-10-DS_SEA_SEA20/quick-reference/Python.pdf)
 
 ### Comprehensions
 
@@ -111,9 +111,9 @@ import matplotlib.pyplot as plt
 $$
 
 ### Important Links
-*[Creating multiple subplot using plt.subplot](https://matplotlib.org/3.1.0/gallery/subplots_axes_and_figures/subplots_demo.html)
-*[Intro to pyplot](https://matplotlib.org/tutorials/introductory/pyplot.html)
-*[Intro to Matplotlib](https://github.com/GalvanizeDataScience/course-outline/blob/20-10-DS_SEA_SEA20/quick-reference/Matplotlib.pdf)
+* [Creating multiple subplot using plt.subplot](https://matplotlib.org/3.1.0/gallery/subplots_axes_and_figures/subplots_demo.html)
+* [Intro to pyplot](https://matplotlib.org/tutorials/introductory/pyplot.html)
+* [Intro to Matplotlib](https://github.com/GalvanizeDataScience/course-outline/blob/20-10-DS_SEA_SEA20/quick-reference/Matplotlib.pdf)
 
 ---------------------------------------------------
 ## Derivations
@@ -132,8 +132,8 @@ ____________________________________________________
 ## Linear Algebra
 
 ### Important Links
-*[Essence of linear algebra - 3Blue1Brown](https://www.3blue1brown.com/essence-of-linear-algebra-page)
-*[Linear Algebra & Numpy](https://github.com/GalvanizeDataScience/course-outline/blob/20-10-DS_SEA_SEA20/notes/reading_material/numpy_reading.md)
+* [Essence of linear algebra - 3Blue1Brown](https://www.3blue1brown.com/essence-of-linear-algebra-page)
+* [Linear Algebra & Numpy](https://github.com/GalvanizeDataScience/course-outline/blob/20-10-DS_SEA_SEA20/notes/reading_material/numpy_reading.md)
 
 ____________________________________________________
 ## Statistics
@@ -188,19 +188,19 @@ Statistical Power is effected by:
 ____________________________________________________
 ## Git 
 
-*[Learn Git Branching](https://learngitbranching.js.org/)
+* [Learn Git Branching](https://learngitbranching.js.org/)
 
 _____________________________________________________
 ## Pandas
 
-*[Pandas & Python: Top 10](http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/)
-*[EDA with Pandas](https://nbviewer.jupyter.org/github/cs109/content/blob/master/labs/lab3/lab3full.ipynb)
-*[Data Wranging with Pandas](https://nbviewer.jupyter.org/github/cs109/content/blob/master/lec_04_wrangling.ipynb)
+* [Pandas & Python: Top 10](http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/)
+* [EDA with Pandas](https://nbviewer.jupyter.org/github/cs109/content/blob/master/labs/lab3/lab3full.ipynb)
+* [Data Wranging with Pandas](https://nbviewer.jupyter.org/github/cs109/content/blob/master/lec_04_wrangling.ipynb)
 
 _____________________________________________________
 ## Numpy
 
-*[Linear Algebra & Numpy](https://github.com/GalvanizeDataScience/course-outline/blob/20-10-DS_SEA_SEA20/notes/reading_material/numpy_reading.md)
+* [Linear Algebra & Numpy](https://github.com/GalvanizeDataScience/course-outline/blob/20-10-DS_SEA_SEA20/notes/reading_material/numpy_reading.md)
 
 _____________________________________________________
 ## Docker
